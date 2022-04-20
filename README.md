@@ -1,8 +1,8 @@
 # dot1x1 Gnome cursor theme
 
-1x1 black dot cursor theme for Gnome to make all cursors 1x1 black dot (to effectively hide them)
-
 NOTE: NO LONGER MAINTAINED AS OF 2021-08-01
+
+1x1 black dot cursor theme for Gnome to make all cursors 1x1 black dot (to effectively hide them)
 
 ## How to install
 
